@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.logoimgsty {
+  height: 60px;
+  width: 70px;
+}
+.ulliststy {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.themebutton {
+  background-color: transparent;
+  border-style: none;
+}
+.navcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}

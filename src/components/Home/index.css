@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.homecontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.white {
+  color: white;
+}
